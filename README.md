@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1DmeciV3rpZTY7Hcub43OTRHid5qqWdIw/view?usp=drive
 
 **Documentation File/Link:**
 
-
+https://drive.google.com/file/d/1KC1vFiyoKSpQ21POZVo0JXijIPK8bjGK/view?usp=drive_link
 
 **Scenario 1:** University Career Services A university's career services department offers a resume generator to assist students in creating polished resumes tailored to specific industries. Students input details such as their academic achievements, internships, and extracurricular activities, and the tool generates resumes highlighting the most relevant skills and experiences for fields like finance, engineering, or marketing. This service helps students stand out in competitive job markets, similar to how career advisors provide tailored guidance based on individual career goals.
 
